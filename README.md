@@ -8,7 +8,7 @@
 
 **Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git)]()
 
 <!---
 Praveen8161/Praveen8161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

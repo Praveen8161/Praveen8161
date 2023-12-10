@@ -6,6 +6,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+**Languages and Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git)](https://skillicons.dev)
+
 <!---
 Praveen8161/Praveen8161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

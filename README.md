@@ -5,7 +5,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/praveen-p-928b42285/" target="_blank">
+<a href="https://www.linkedin.com/in/praveen-ps176/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>

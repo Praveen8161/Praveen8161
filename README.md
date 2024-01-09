@@ -5,9 +5,8 @@
 <h3 align="left">Portfolio:</h3>
 
 <a href="https://praveen-portfolio-1.netlify.app" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Praveen-Portfolio-green">
-
- </a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-17B169?style=plastic">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

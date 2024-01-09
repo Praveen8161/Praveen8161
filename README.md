@@ -4,7 +4,7 @@
   ![Static Badge](https://img.shields.io/badge/Full_stack-MERN-blue)
 <h3 align="left">Portfolio:</h3>
 
-<a src="https://praveen-portfolio-1.netlify.app/" target="_blank">
+<a href="https://praveen-portfolio-1.netlify.app" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Praveen-Portfolio-green">
 
  </a>

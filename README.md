@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git)]()
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git,typescript)]()
 
 <h3 align="left">GitHub Status</h3>
 

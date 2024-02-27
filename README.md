@@ -15,6 +15,9 @@
 </a>
 </p>
 
+<h3 align="left">Currently Learning:</h3>
+<p>Python Machine Learning</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git,typescript)]()
